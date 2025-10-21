@@ -1,7 +1,8 @@
 ## Hi there, I'm myraninkero 👋
 - 👀 I'm interested in: Gaming 🎮, Piano 🎶, Tech 👨‍💻 and my two cats (sibirians) of course! 🐈Zelda 🐈‍⬛Melker
 - 👨‍🎓 I'm studying to become a .NET system developer @Medieinstitutet 🏫
-- 🌱 I’m currently learning: C#, JavaScript, HTML and CSS... to be continued!
+- ✅ JavaScript, HTML and CSS
+- 🌱 I’m currently learning: C#, to be continued...
 <!--
 **myraninkero/myraninkero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
