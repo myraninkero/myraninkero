@@ -1,8 +1,8 @@
 ## Hi there, I'm myraninkero 👋
 - 👀 I'm interested in: Gaming 🎮, Piano 🎶, Tech 👨‍💻 and my two cats (sibirians) of course! 🐈Zelda 🐈‍⬛Melker
 - 👨‍🎓 I'm studying @[Medieinstitutet](https://medieinstitutet.se/) to become a .NET system developer
-- ✅ C#, Entity Framework, PostgreSQL, MongoDB, JavaScript, HTML and CSS
-- 🌱 I’m currently learning: .NET API Development, to be continued...
+- ✅ C#, ASP.NET Core, Entity Framework, PostgreSQL, MongoDB, JavaScript, HTML and CSS
+- 🌱 I’m currently learning: DevOps, to be continued...
 <!--
 **myraninkero/myraninkero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
